@@ -76,17 +76,17 @@ object ScaldingBuild extends Build {
       </scm>
       <developers>
         <developer>
-          <id>oscar</id>
+          <id>posco</id>
           <name>Oscar Boykin</name>
           <url>http://twitter.com/posco</url>
         </developer>
         <developer>
-          <id>sritchie</id>
+          <id>avibryant</id>
           <name>Avi Bryant</name>
           <url>http://twitter.com/avibryant</url>
         </developer>
         <developer>
-          <id>sritchie</id>
+          <id>argyris</id>
           <name>Argyris Zymnis</name>
           <url>http://twitter.com/argyris</url>
         </developer>
